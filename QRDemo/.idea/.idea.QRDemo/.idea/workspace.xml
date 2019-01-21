@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd2f7c37-6f0d-4bad-8442-0b73adf25e7c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1295628787">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="40" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/QRDecodeTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2356">
+              <caret line="128" column="9" selection-start-line="128" selection-start-column="9" selection-end-line="128" selection-end-column="9" />
+              <folding>
+                <marker date="1542890589590" expanded="false" signature="6:109" ph="..." />
+                <marker date="1542890589590" expanded="true" signature="152:3859" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="499:628" ph="/// when you set the var is true,if the result of the decode is web url,it will open with browser. ... " />
+                <marker date="1542890589590" expanded="true" signature="684:842" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="722:839" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="866:872" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="919:1571" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="949:1165" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="993:1161" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="1071:1121" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="1214:1305" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="1447:1489" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="1521:1567" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="1593:2363" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="1631:1671" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="1703:1942" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="1974:2211" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2240:2283" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2315:2360" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2384:2521" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2474:2518" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2542:3121" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2580:2623" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2653:2696" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2728:2774" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2833:2888" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="2946:3000" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="3167:3326" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="3205:3248" ph="{...}" />
+                <marker date="1542890589590" expanded="true" signature="3329:3470" ph="/// Toggles the torch by click the ui button ... " />
+                <marker date="1542890589590" expanded="true" signature="3497:3856" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/QRCodeDecodeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="232" selection-end-column="1" />
+              <folding>
+                <marker date="1542890518590" expanded="true" signature="0:110" ph="/* write by 52cwalk,if you have some question ,please contract lycwalk@gmail.com ... */" />
+                <marker date="1542890518590" expanded="false" signature="118:307" ph="..." />
+                <marker date="1542890518590" expanded="true" signature="1050:1099" ph="/// 设置识别区域大小 ... " />
+                <marker date="1542890518590" expanded="true" signature="1281:1647" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="1414:1644" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="1521:1640" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="1668:4418" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="1718:4415" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="1815:4078" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="1993:2013" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="2048:2171" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="2195:2232" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="2264:2335" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="2569:3917" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="2612:3872" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="2738:3265" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="2812:3248" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="3285:3717" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="3500:3699" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="3752:3823" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="3944:3962" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="3981:4073" ph="/* scan the qrcode ... */" />
+                <marker date="1542890518590" expanded="true" signature="4098:4411" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4177:4376" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4277:4370" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4446:4467" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4494:4514" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4541:4561" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4565:4621" ph="/// Reset this scan param ... " />
+                <marker date="1542890518590" expanded="true" signature="4642:4696" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4699:4749" ph="/// Stops the work. ... " />
+                <marker date="1542890518590" expanded="true" signature="4774:4903" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4812:4852" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="4907:4957" ph="/// Stops the work. ... " />
+                <marker date="1542890518590" expanded="true" signature="4981:5115" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="5033:5112" ph="/* if (e_DeviceController != null) { ... */" />
+                <marker date="1542890518590" expanded="true" signature="5119:5289" ph="/// Decodes the by static picture. ... " />
+                <marker date="1542890518590" expanded="true" signature="5344:5634" ph="{...}" />
+                <marker date="1542890518590" expanded="true" signature="5566:5592" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/DeviceCameraController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+              <folding>
+                <marker date="1542890533054" expanded="true" signature="0:110" ph="/* write by 52cwalk,if you have some question ,please contract lycwalk@gmail.com ... */" />
+                <marker date="1542890533054" expanded="false" signature="118:198" ph="..." />
+                <marker date="1542890533054" expanded="true" signature="252:2485" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="283:322" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="292:319" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="505:614" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="514:611" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="539:577" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="629:762" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="818:1086" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="868:1083" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="915:947" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="983:1078" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="1089:1214" ph="/// Stops the work. ... " />
+                <marker date="1542890533054" expanded="true" signature="1239:1302" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="1270:1299" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="1305:1430" ph="/// Stops the work. ... " />
+                <marker date="1542890533054" expanded="true" signature="1454:1634" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="1485:1514" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="1548:1630" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="1637:1698" ph="/// Corrects the screen ratio. ... " />
+                <marker date="1542890533054" expanded="true" signature="1725:2481" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="1907:1978" ph="{...}" />
+                <marker date="1542890533054" expanded="true" signature="2296:2478" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ToLittle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <marker date="1543215974435" expanded="false" signature="6:78" ph="..." />
+                <marker date="1543215974435" expanded="true" signature="118:320" ph="{...}" />
+                <marker date="1543215974435" expanded="true" signature="167:256" ph="{...}" />
+                <marker date="1543215974435" expanded="true" signature="311:318" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ToLittle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/QRCodeDecodeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/DeviceCameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/QRDecodeTest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/QRCodeDecodeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/DeviceCameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/QRDecodeTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/ToLittle.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd2f7c37-6f0d-4bad-8442-0b73adf25e7c" name="Default Changelist" comment="" />
+      <created>1542866971404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542866971404</updated>
+      <workItem from="1542866973214" duration="968000" />
+      <workItem from="1542870799992" duration="650000" />
+      <workItem from="1542890469358" duration="838000" />
+      <workItem from="1543215910917" duration="204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2660000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24946696" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/QRDecodeTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2356">
+          <caret line="128" column="9" selection-start-line="128" selection-start-column="9" selection-end-line="128" selection-end-column="9" />
+          <folding>
+            <marker date="1542890589590" expanded="false" signature="6:109" ph="..." />
+            <marker date="1542890589590" expanded="true" signature="152:3859" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="499:628" ph="/// when you set the var is true,if the result of the decode is web url,it will open with browser. ... " />
+            <marker date="1542890589590" expanded="true" signature="684:842" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="722:839" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="866:872" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="919:1571" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="949:1165" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="993:1161" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="1071:1121" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="1214:1305" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="1447:1489" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="1521:1567" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="1593:2363" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="1631:1671" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="1703:1942" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="1974:2211" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2240:2283" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2315:2360" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2384:2521" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2474:2518" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2542:3121" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2580:2623" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2653:2696" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2728:2774" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2833:2888" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="2946:3000" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="3167:3326" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="3205:3248" ph="{...}" />
+            <marker date="1542890589590" expanded="true" signature="3329:3470" ph="/// Toggles the torch by click the ui button ... " />
+            <marker date="1542890589590" expanded="true" signature="3497:3856" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/QRCodeDecodeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="232" selection-end-column="1" />
+          <folding>
+            <marker date="1542890518590" expanded="true" signature="0:110" ph="/* write by 52cwalk,if you have some question ,please contract lycwalk@gmail.com ... */" />
+            <marker date="1542890518590" expanded="false" signature="118:307" ph="..." />
+            <marker date="1542890518590" expanded="true" signature="1050:1099" ph="/// 设置识别区域大小 ... " />
+            <marker date="1542890518590" expanded="true" signature="1281:1647" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="1414:1644" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="1521:1640" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="1668:4418" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="1718:4415" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="1815:4078" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="1993:2013" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="2048:2171" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="2195:2232" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="2264:2335" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="2569:3917" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="2612:3872" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="2738:3265" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="2812:3248" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="3285:3717" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="3500:3699" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="3752:3823" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="3944:3962" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="3981:4073" ph="/* scan the qrcode ... */" />
+            <marker date="1542890518590" expanded="true" signature="4098:4411" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4177:4376" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4277:4370" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4446:4467" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4494:4514" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4541:4561" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4565:4621" ph="/// Reset this scan param ... " />
+            <marker date="1542890518590" expanded="true" signature="4642:4696" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4699:4749" ph="/// Stops the work. ... " />
+            <marker date="1542890518590" expanded="true" signature="4774:4903" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4812:4852" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="4907:4957" ph="/// Stops the work. ... " />
+            <marker date="1542890518590" expanded="true" signature="4981:5115" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="5033:5112" ph="/* if (e_DeviceController != null) { ... */" />
+            <marker date="1542890518590" expanded="true" signature="5119:5289" ph="/// Decodes the by static picture. ... " />
+            <marker date="1542890518590" expanded="true" signature="5344:5634" ph="{...}" />
+            <marker date="1542890518590" expanded="true" signature="5566:5592" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyQRScaner/QRScan/QRcode/Scripts/DeviceCameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+          <folding>
+            <marker date="1542890533054" expanded="true" signature="0:110" ph="/* write by 52cwalk,if you have some question ,please contract lycwalk@gmail.com ... */" />
+            <marker date="1542890533054" expanded="false" signature="118:198" ph="..." />
+            <marker date="1542890533054" expanded="true" signature="252:2485" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="283:322" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="292:319" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="505:614" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="514:611" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="539:577" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="629:762" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="818:1086" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="868:1083" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="915:947" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="983:1078" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="1089:1214" ph="/// Stops the work. ... " />
+            <marker date="1542890533054" expanded="true" signature="1239:1302" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="1270:1299" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="1305:1430" ph="/// Stops the work. ... " />
+            <marker date="1542890533054" expanded="true" signature="1454:1634" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="1485:1514" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="1548:1630" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="1637:1698" ph="/// Corrects the screen ratio. ... " />
+            <marker date="1542890533054" expanded="true" signature="1725:2481" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="1907:1978" ph="{...}" />
+            <marker date="1542890533054" expanded="true" signature="2296:2478" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLittle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1543215974435" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543215974435" expanded="true" signature="118:320" ph="{...}" />
+            <marker date="1543215974435" expanded="true" signature="167:256" ph="{...}" />
+            <marker date="1543215974435" expanded="true" signature="311:318" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
